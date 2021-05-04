@@ -1,0 +1,7 @@
+语言：Python
+硬性依赖：WinRAR 下载地址：http://www.winrar.com.cn/
+使用前一定一定要安装WinRAR！！！
+作者:HKRTree 
+QQ:3479867064
+>本程序遵守 Creative Commons (知识共享)发布的《署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)》开源共享协议<
+>有关该协议的详细内容, 请访问 http://p79.net/b4b5c<
